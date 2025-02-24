@@ -12,3 +12,4 @@ E:\filessss\C-Sharp_Programming\Static-Variable\obj\Debug\net8.0\refint\Static-V
 E:\filessss\C-Sharp_Programming\Static-Variable\obj\Debug\net8.0\Static-Variable.pdb
 E:\filessss\C-Sharp_Programming\Static-Variable\obj\Debug\net8.0\Static-Variable.genruntimeconfig.cache
 E:\filessss\C-Sharp_Programming\Static-Variable\obj\Debug\net8.0\ref\Static-Variable.dll
+E:\filessss\C-Sharp_Programming\Static-Variable\obj\Debug\net8.0\Static-Variable.sourcelink.json
