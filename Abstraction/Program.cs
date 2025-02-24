@@ -1,26 +1,39 @@
 ﻿using System;
+abstract class Payment
+{
+    public abstract void processPayment(double amount); // Abstract method
+    public void PrintReceipt(double amount) // Concrete method
+    {
+        Console.WriteLine($"Payment of ${amount} processed successfully.");
+    }
+}
 
-abstract class Animal
+class PaypalPayment: Payment
 {
-    public abstract void MakeSound();  // Abstract method (no implementation)
-    public void Sleep() // Concrete method (has implementation)
+    public override void processPayment(double amount)
     {
-        Console.WriteLine("Sleeping...");
+        Console.WriteLine($"Processing PayPal payment of ${amount}...");
+        PrintReceipt(amount);
     }
 }
-class Dog : Animal
+
+class CreditCardPayment: Payment
 {
-    public override void MakeSound() // Implementing the abstract method
+    public override void processPayment(double amount)
     {
-        Console.WriteLine("Woof! Woof!");
+        Console.WriteLine($"Processing Credit Card payment of ${amount}...");
+        PrintReceipt(amount);
     }
 }
-class Program
+
+class program
 {
     static void Main()
-    {
-        Animal myDog = new Dog();  // Cannot create instance of Animal, but Dog can
-        myDog.MakeSound();  // Output: Woof! Woof!
-        myDog.Sleep();      // Output: Sleeping...
-    }
+{
+    Payment mypayment=new PaypalPayment();
+    mypayment.processPayment(100);
+
+    Payment anotherp=new CreditCardPayment();
+    anotherp.processPayment(200);
+}
 }

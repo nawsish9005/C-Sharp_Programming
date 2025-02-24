@@ -1,0 +1,15 @@
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+E:\filessss\C-Sharp_Programming\Abstraction\bin\Debug\net8.0\Abstraction.exe
+E:\filessss\C-Sharp_Programming\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+E:\filessss\C-Sharp_Programming\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+E:\filessss\C-Sharp_Programming\Abstraction\bin\Debug\net8.0\Abstraction.dll
+E:\filessss\C-Sharp_Programming\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.dll
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+E:\filessss\C-Sharp_Programming\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
