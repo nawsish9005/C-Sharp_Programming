@@ -1,0 +1,15 @@
+E:\filessss\C-Sharp_Programming\deligate1\bin\Debug\net8.0\deligate1.exe
+E:\filessss\C-Sharp_Programming\deligate1\bin\Debug\net8.0\deligate1.deps.json
+E:\filessss\C-Sharp_Programming\deligate1\bin\Debug\net8.0\deligate1.runtimeconfig.json
+E:\filessss\C-Sharp_Programming\deligate1\bin\Debug\net8.0\deligate1.dll
+E:\filessss\C-Sharp_Programming\deligate1\bin\Debug\net8.0\deligate1.pdb
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.AssemblyInfoInputs.cache
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.AssemblyInfo.cs
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.csproj.CoreCompileInputs.cache
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.sourcelink.json
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.dll
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\refint\deligate1.dll
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.pdb
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\deligate1.genruntimeconfig.cache
+E:\filessss\C-Sharp_Programming\deligate1\obj\Debug\net8.0\ref\deligate1.dll
